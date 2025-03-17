@@ -1,2 +1,2 @@
-# AutoRepeater-
+# AutoRepeater
 Auto Repeater 
